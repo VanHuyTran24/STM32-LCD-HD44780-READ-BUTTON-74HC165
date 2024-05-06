@@ -1,4 +1,4 @@
-# STM32 library for FULL CONNECTION HD44780 LCD
+# STM32 LCD HD44780 Push Button Control with 74HC165
 
 ## Target
 
