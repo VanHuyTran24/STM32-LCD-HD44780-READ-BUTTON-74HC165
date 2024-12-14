@@ -8,7 +8,7 @@
   <li>When pressing button SW4, LCD automatically counts up from the current time. When pressing SW1, SW2 or SW3, counting stops.</li>
 
 ## Demo
-![image](https://github.com/VanHuyTran24/STM32-LCD-HD44780-READ-BUTTON-74HC165/assets/166670555/195e9120-5f4f-4f40-95bb-b7a410783656)
+![image](https://github.com/user-attachments/assets/78be5561-1c1c-43b6-8c58-92bb5159373e)
 
 
 Library File: [LCD.c](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/blob/master/Program_KeilC/MDK-ARM/TranVanHuy_LCD.c) [LCD.h](https://github.com/VanHuyTran24/STM32F103-LCD-HD44780-FULL-CONNECTION/blob/master/Program_KeilC/MDK-ARM/TranVanHuy_LCD.c)
